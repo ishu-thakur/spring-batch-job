@@ -1,0 +1,14 @@
+
+
+
+                                                    | -------->Item Reader  Source CSV.file
+Job Launcher ------------> Job ----------------> Step -------->Item Processor
+    |                                               | -------->Item Writer  Destination Database
+    |
+    |
+    |
+Job Repository
+    |
+    |
+    |
+ Database
